@@ -9,5 +9,6 @@
             "default": "#0CDF66"
         }
     },
-    "panelURL": ""
+    "panelURL": "",
+    "servercluster": ""
 }
