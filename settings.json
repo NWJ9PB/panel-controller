@@ -1,9 +1,9 @@
 {
-    "prefix": "",
+    "prefix": "srv",
     "token": "",
-    "owner": "",
+    "owner": "287118222174453760",
     "embed": {
-        "footer": "made by doge#1234",
+        "footer": "ARCH Proprietary Bot",
         "color": {
             "error": 13382185,
             "default": "#0CDF66"
